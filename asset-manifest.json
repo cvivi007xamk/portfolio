@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "./static/js/main.c5a94d6a.chunk.js",
+    "main.js.map": "./static/js/main.c5a94d6a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b67d067c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b67d067c.js.map",
+    "static/css/2.267e9e5a.chunk.css": "./static/css/2.267e9e5a.chunk.css",
+    "static/js/2.82bae0d3.chunk.js": "./static/js/2.82bae0d3.chunk.js",
+    "static/js/2.82bae0d3.chunk.js.map": "./static/js/2.82bae0d3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.267e9e5a.chunk.css.map": "./static/css/2.267e9e5a.chunk.css.map",
+    "static/js/2.82bae0d3.chunk.js.LICENSE.txt": "./static/js/2.82bae0d3.chunk.js.LICENSE.txt",
+    "static/media/offwhitebanner2.cd214d72.jpg": "./static/media/offwhitebanner2.cd214d72.jpg",
+    "static/media/pilkki.39c3592d.jpg": "./static/media/pilkki.39c3592d.jpg",
+    "static/media/index.css": "./static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/tpaita1.0e3b8458.webp": "./static/media/tpaita1.0e3b8458.webp",
+    "static/media/tpaita2.b40466c1.webp": "./static/media/tpaita2.b40466c1.webp",
+    "static/media/tpaita3.823d57c1.webp": "./static/media/tpaita3.823d57c1.webp",
+    "static/media/tpaita4.eba2f3fa.webp": "./static/media/tpaita4.eba2f3fa.webp",
+    "static/media/tpaita5.b1b4177c.jpg": "./static/media/tpaita5.b1b4177c.jpg",
+    "static/media/tpaita6.026f8bc3.jpg": "./static/media/tpaita6.026f8bc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b67d067c.js",
+    "static/css/2.267e9e5a.chunk.css",
+    "static/js/2.82bae0d3.chunk.js",
+    "static/js/main.c5a94d6a.chunk.js"
+  ]
+}
